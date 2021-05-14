@@ -12,12 +12,16 @@ A continuación algunas consideraciones:
 * Dentro de cada carpeta podrán trabajar con completa libertad exceptuando por las carpetas ***"Entrega"***.
 * En las carpetas ***"Entrega"*** se deberá respetar la estructura presentadas con las siguientes posibilidades:
   1. Si una de las carpetas resultara tener un único archivo, esta se podrá reemplazar por ese archivo pero con el nombre que estaba en la carpeta.
+  
   2. Siempre que sea posible entregar formatos
      * pdf
      * png
      * doc/docx
      * xlxs
+     
   3. Si se entrega un link a un archivo compartido en la web, procurar haber dado permisos de lectura a los ayudantes correspondientes.
+  
+* Los archivos .nothing son solo para que haya algo en las carpetas vacias y git mantenga la estructura en el remoto.
 
 ## Integrantes:
 
