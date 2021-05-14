@@ -31,7 +31,7 @@ A continuación algunas consideraciones:
 
 ## Links Utiles:
 
-* [Product Backlog](https://trello.com){:target="_blank"}
+* [Product Backlog](https://trello.com)
 * [Google Drive](https://drive.google.com)
 * [<Nombre-del-link>](<url>)
 
