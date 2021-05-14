@@ -21,7 +21,7 @@ A continuación algunas consideraciones:
      
   3. Si se entrega un link a un archivo compartido en la web, procurar haber dado permisos de lectura a los ayudantes correspondientes.
   
-* Los archivos .nothing son solo para que haya algo en las carpetas vacias y git mantenga la estructura en el remoto.
+* Los archivos .empty son solo para que haya algo en las carpetas vacias y git mantenga la estructura en el remoto.
 
 ## Integrantes:
 
